@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.*?>
+
+<VBox xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="de.mtswe.javafxtest.main.MainController">
+    <TextField text="Hello World, JavaFX!" fx:id="textDisplay" />
+    <Button text="Change Text" onAction="#onChangeText" fx:id="changeTextButton" />
+</VBox>
