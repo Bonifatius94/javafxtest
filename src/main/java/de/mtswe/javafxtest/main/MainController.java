@@ -14,7 +14,7 @@ public class MainController {
     private Button changeTextButton;
 
     @FXML
-    protected void onChangeText(ActionEvent event) {
+    private void onChangeText(ActionEvent event) {
         textDisplay.setText("change text button pressed");
     }
 }
