@@ -44,3 +44,6 @@ mvn clean javafx:run
 mvn clean javafx:jlink
 target/javafxtest/bin/launcher
 ```
+
+## License
+No license, feel free to use this boilerplate for your project.
