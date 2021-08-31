@@ -4,6 +4,8 @@
 ## About
 This project provides a boilerplate for creating a JavaFX desktop app running OpenJDK 11.
 
+*Info: This entire tutorial assumes a Debian-like system. It's tested for Ubuntu 20.04.*
+
 ## Build Toolchain Setup
 
 ### Install OpenJDK 11 and Maven
